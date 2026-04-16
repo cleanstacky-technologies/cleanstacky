@@ -1,4 +1,15 @@
+# CleanStacky Technologies — https://cleanstacky.com
+# Canonical robots.txt is generated at build time by scripts/generate-seo.mjs
+# and served from public/robots.txt at the root.
+
 User-agent: *
 Allow: /
-Disallow: /assets/
+Disallow: /admin
+Disallow: /admin/
+Disallow: /login
+Disallow: /request-access
+Disallow: /demo
+Disallow: /demo/
+
 Sitemap: https://cleanstacky.com/sitemap.xml
+Sitemap: https://cleanstacky.com/sitemap-index.xml
