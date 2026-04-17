@@ -3,8 +3,14 @@
 /systems/school-erp
 /systems/clinic-system
 /systems/business-crm
+/industries
 /industries/schools
 /industries/clinics
+/industries/diagnostics-centres
+/industries/textile-business
+/industries/b2b-business
+/industries/b2c-business
+/industries/any-business-tech-solutions
 /industries/construction
 /industries/agriculture
 /industries/services
@@ -12,3 +18,4 @@
 /pricing
 /about
 /contact
+/calculator

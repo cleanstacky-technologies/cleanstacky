@@ -1,0 +1,15 @@
+/* TEAM */
+Company: CleanStacky Technologies
+Site: https://cleanstacky.com
+Location: Bengaluru, Karnataka, India
+Contact: contact@cleanstacky.com
+
+/* THANKS */
+Clients, partners and the Indian SMB community that trusts us
+with their daily operations.
+
+/* SITE */
+Last update: 2026-04-09
+Language: English / Hindi / Kannada
+Stack: Angular, TypeScript, SSR, Express, Supabase
+Standards: HTML5, CSS3, JSON-LD, Open Graph, Schema.org

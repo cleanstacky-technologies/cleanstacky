@@ -1,0 +1,19 @@
+# Netlify redirects — consolidate SEO signals to the canonical apex host.
+# All www, http and trailing-slash variants should funnel 301 to the clean URL.
+
+# Force canonical host (www -> apex, single source of SEO authority)
+https://www.cleanstacky.com/*   https://cleanstacky.com/:splat   301!
+http://www.cleanstacky.com/*    https://cleanstacky.com/:splat   301!
+http://cleanstacky.com/*        https://cleanstacky.com/:splat   301!
+
+# Legacy / alternate paths -> canonical slugs (examples; extend as needed)
+/home                           /                                301
+/index.html                     /                                301
+/systems.html                   /systems                         301
+/school-erp                     /systems/school-erp              301
+/clinic                         /systems/clinic-system           301
+/crm                            /systems/business-crm            301
+
+# Sitemap helpers
+/sitemap                        /sitemap.xml                     301
+/sitemap/                       /sitemap.xml                     301

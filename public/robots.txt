@@ -1,7 +1,75 @@
+# CleanStacky Technologies - https://cleanstacky.com
+# Generated on 2026-04-09
+# Allow all well-behaved crawlers, block private / authenticated areas.
+
 User-agent: *
 Allow: /
 Disallow: /admin
+Disallow: /admin/
+Disallow: /login
+Disallow: /request-access
 Disallow: /demo
+Disallow: /demo/
 Disallow: /private
+Disallow: /*?*utm_
+Disallow: /*?*sessionid
+Disallow: /*?*ref=
+
+# Large good-bots get first-class treatment
+User-agent: Googlebot
+Allow: /
+Disallow: /admin
+Disallow: /login
+Disallow: /demo
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+Disallow: /admin
+Disallow: /login
+Disallow: /demo
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# Throttle aggressive / non-essential crawlers
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Crawl-delay: 20
+
+# AI crawlers (allowed — we want visibility in AI answers)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Host: cleanstacky.com
 
 Sitemap: https://cleanstacky.com/sitemap.xml
+Sitemap: https://cleanstacky.com/sitemap-index.xml

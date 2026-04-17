@@ -1,21 +1,204 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://cleanstacky.com/</loc><lastmod>2026-02-27</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://cleanstacky.com/about</loc><lastmod>2026-02-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://cleanstacky.com/calculator</loc><lastmod>2026-02-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://cleanstacky.com/case-studies</loc><lastmod>2026-02-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://cleanstacky.com/contact</loc><lastmod>2026-02-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://cleanstacky.com/industries</loc><lastmod>2026-02-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://cleanstacky.com/industries/agriculture</loc><lastmod>2026-02-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://cleanstacky.com/industries/clinics</loc><lastmod>2026-02-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://cleanstacky.com/industries/construction</loc><lastmod>2026-02-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://cleanstacky.com/industries/schools</loc><lastmod>2026-02-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://cleanstacky.com/industries/services</loc><lastmod>2026-02-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://cleanstacky.com/login</loc><lastmod>2026-02-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://cleanstacky.com/pricing</loc><lastmod>2026-02-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://cleanstacky.com/request-access</loc><lastmod>2026-02-27</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://cleanstacky.com/systems</loc><lastmod>2026-02-27</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://cleanstacky.com/systems/business-crm</loc><lastmod>2026-02-27</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://cleanstacky.com/systems/clinic-system</loc><lastmod>2026-02-27</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://cleanstacky.com/systems/school-erp</loc><lastmod>2026-02-27</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://cleanstacky.com/</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://cleanstacky.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanstacky.com/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleanstacky.com/" />
+    <image:image>
+      <image:loc>https://cleanstacky.com/CST_LOGO.png</image:loc>
+      <image:title>CleanStacky Technologies</image:title>
+      <image:caption>CleanStacky Technologies — Business systems for Indian SMBs</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://cleanstacky.com/dashboard-preview-v2.svg</image:loc>
+      <image:title>CleanStacky operations dashboard preview</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cleanstacky.com/about</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://cleanstacky.com/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanstacky.com/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleanstacky.com/about" />
+  </url>
+  <url>
+    <loc>https://cleanstacky.com/calculator</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://cleanstacky.com/calculator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanstacky.com/calculator" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleanstacky.com/calculator" />
+  </url>
+  <url>
+    <loc>https://cleanstacky.com/case-studies</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://cleanstacky.com/case-studies" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanstacky.com/case-studies" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleanstacky.com/case-studies" />
+  </url>
+  <url>
+    <loc>https://cleanstacky.com/contact</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://cleanstacky.com/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanstacky.com/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleanstacky.com/contact" />
+  </url>
+  <url>
+    <loc>https://cleanstacky.com/industries</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://cleanstacky.com/industries" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanstacky.com/industries" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleanstacky.com/industries" />
+  </url>
+  <url>
+    <loc>https://cleanstacky.com/industries/agriculture</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://cleanstacky.com/industries/agriculture" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanstacky.com/industries/agriculture" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleanstacky.com/industries/agriculture" />
+  </url>
+  <url>
+    <loc>https://cleanstacky.com/industries/any-business-tech-solutions</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://cleanstacky.com/industries/any-business-tech-solutions" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanstacky.com/industries/any-business-tech-solutions" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleanstacky.com/industries/any-business-tech-solutions" />
+  </url>
+  <url>
+    <loc>https://cleanstacky.com/industries/b2b-business</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://cleanstacky.com/industries/b2b-business" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanstacky.com/industries/b2b-business" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleanstacky.com/industries/b2b-business" />
+  </url>
+  <url>
+    <loc>https://cleanstacky.com/industries/b2c-business</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://cleanstacky.com/industries/b2c-business" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanstacky.com/industries/b2c-business" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleanstacky.com/industries/b2c-business" />
+  </url>
+  <url>
+    <loc>https://cleanstacky.com/industries/clinics</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://cleanstacky.com/industries/clinics" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanstacky.com/industries/clinics" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleanstacky.com/industries/clinics" />
+  </url>
+  <url>
+    <loc>https://cleanstacky.com/industries/construction</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://cleanstacky.com/industries/construction" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanstacky.com/industries/construction" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleanstacky.com/industries/construction" />
+  </url>
+  <url>
+    <loc>https://cleanstacky.com/industries/diagnostics-centres</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://cleanstacky.com/industries/diagnostics-centres" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanstacky.com/industries/diagnostics-centres" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleanstacky.com/industries/diagnostics-centres" />
+  </url>
+  <url>
+    <loc>https://cleanstacky.com/industries/schools</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://cleanstacky.com/industries/schools" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanstacky.com/industries/schools" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleanstacky.com/industries/schools" />
+  </url>
+  <url>
+    <loc>https://cleanstacky.com/industries/services</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://cleanstacky.com/industries/services" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanstacky.com/industries/services" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleanstacky.com/industries/services" />
+  </url>
+  <url>
+    <loc>https://cleanstacky.com/industries/textile-business</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://cleanstacky.com/industries/textile-business" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanstacky.com/industries/textile-business" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleanstacky.com/industries/textile-business" />
+  </url>
+  <url>
+    <loc>https://cleanstacky.com/pricing</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://cleanstacky.com/pricing" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanstacky.com/pricing" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleanstacky.com/pricing" />
+  </url>
+  <url>
+    <loc>https://cleanstacky.com/systems</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://cleanstacky.com/systems" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanstacky.com/systems" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleanstacky.com/systems" />
+  </url>
+  <url>
+    <loc>https://cleanstacky.com/systems/business-crm</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://cleanstacky.com/systems/business-crm" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanstacky.com/systems/business-crm" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleanstacky.com/systems/business-crm" />
+  </url>
+  <url>
+    <loc>https://cleanstacky.com/systems/clinic-system</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://cleanstacky.com/systems/clinic-system" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanstacky.com/systems/clinic-system" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleanstacky.com/systems/clinic-system" />
+  </url>
+  <url>
+    <loc>https://cleanstacky.com/systems/school-erp</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://cleanstacky.com/systems/school-erp" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://cleanstacky.com/systems/school-erp" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://cleanstacky.com/systems/school-erp" />
+  </url>
 </urlset>
